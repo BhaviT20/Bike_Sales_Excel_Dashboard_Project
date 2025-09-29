@@ -3,7 +3,7 @@ Bike Sales Excel Dashboard Project
 ## Project Overview
 This Excel project involves creating a comprehensive dashboard for bike sales, utilizing data cleaning, pivot tables, and visualizations. The goal is to provide a user-friendly dashboard where users can interact with the data, exploring bike sales insights based on various demographics.
 
-[Dashboard Demo]_(![Image](https://github.com/user-attachments/assets/9528a194-8baf-4c13-be07-74c641732d10))
+[Dashboard Demo]_![Image](https://github.com/user-attachments/assets/9528a194-8baf-4c13-be07-74c641732d10)
 
 
 
